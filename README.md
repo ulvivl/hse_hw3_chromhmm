@@ -36,9 +36,9 @@ A549 | H3K27me3 | H3K27me3.bam | Control.bam
 
 ## ChromHMM
 
-Emission | Transition 
- --- | ---
- ![](/img/A549_10_overlap.png) | ![](/img/transitions_10.png)
+Emission | Overlap | Transition 
+ --- | --- | ---
+ ![](/img/emissions_10.png) | ![](/img/A549_10_overlap.png) | ![](/img/transitions_10.png)
 
 RefSeqTSS | RefSeqTES 
  --- | --- 
