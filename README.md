@@ -131,13 +131,6 @@ RefSeqTSS | RefSeqTES
    
 ---
 
-## Бонусная часть
-Код представлен в колабе
-
-![](/img/bonus.png)
-
----
-
 ## Запущенные команды:
 
 ```
@@ -154,3 +147,10 @@ RefSeqTSS | RefSeqTES
 !java -mx5000M -jar /content/ChromHMM/ChromHMM.jar LearnModel -b 200 \
   /content/binarizedData/ /content/data 10 hg19
 ```
+
+---
+
+## Бонусная часть
+Код представлен в колабе
+
+![](/img/bonus.png)
