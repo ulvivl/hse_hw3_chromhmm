@@ -4,6 +4,8 @@
 
 [ссылка](https://colab.research.google.com/drive/1WAklSQC1NjeoRP9laFZL0vE7Yqka5hMp?usp=sharing)
 
+---
+
 ## Информация о данных 
 
 Клеточная линия | Гистоновая метка | Файл с гистоновой меткой 
@@ -19,6 +21,8 @@ A549 | H3K9ac | wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam
 A549 | H3K4me3 | wgEncodeBroadHistoneA549H3k04me3Dex100nmAlnRep1.bam
 A549 | H3K27me3 | wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep1.bam
 
+---
+
 ## ChromHMM
 
 Emission | Overlap | Transition 
@@ -28,6 +32,8 @@ Emission | Overlap | Transition
 RefSeqTSS | RefSeqTES 
  --- | --- 
 ![](/img/A549_10_RefSeqTSS_neighborhood.png) | ![](/img/A549_10_RefSeqTES_neighborhood.png)
+
+---
 
 ## Эпигенетические состояния
 
@@ -112,4 +118,11 @@ RefSeqTSS | RefSeqTES
    - Больше всего похоже на состояние Active Promoter (_Active_Promoter)
   
    ![](/img/state_10.png)   
+   
+---
+
+## Бонусная часть
+Код представлен в колабе
+
+![](/img/bonus.png)   
   
