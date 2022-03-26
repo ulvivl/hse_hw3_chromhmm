@@ -15,7 +15,7 @@
 ## Информация о данных 
 
 Клеточная линия | Гистоновая метка | Файл с гистоновой меткой | Имя при обработке 
---- | --- | --- |
+--- | --- | --- | ---
 A549 | H3K4me2 | wgEncodeBroadHistoneA549H3k04me2Dex100nmAlnRep1.bam | H3K04me2.bam
 A549 | H3K79me2 | wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam | H3K79me2.bam
 A549 | H3K36me3 | wgEncodeBroadHistoneA549H3k36me3Dex100nmAlnRep1.bam | H3K36me3.bam
