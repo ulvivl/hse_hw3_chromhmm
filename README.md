@@ -1,12 +1,12 @@
 # hse_hw3_chromhmm
 
-## Colab
+### Colab
 
 [ссылка](https://colab.research.google.com/drive/1WAklSQC1NjeoRP9laFZL0vE7Yqka5hMp?usp=sharing)
 
 ---
 
-## Информация о данных 
+### Информация о данных 
 
 Клеточная линия | Гистоновая метка | Файл с гистоновой меткой 
 --- | --- | --- 
@@ -23,7 +23,7 @@ A549 | H3K27me3 | wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep1.bam
 
 ---
 
-## ChromHMM
+### ChromHMM
 
 Emission | Overlap | Transition 
  --- | --- | ---
@@ -35,7 +35,7 @@ RefSeqTSS | RefSeqTES
 
 ---
 
-## Эпигенетические состояния
+### Эпигенетические состояния
 
 1. Состояние 1:
    - Cостояние ярко выражено среди 2 гистоновых модификаций: H3K9me3 (только в ucsc), H3K27me3. В других модификациях состояние либо не встречается либо едва заметно.
@@ -121,7 +121,7 @@ RefSeqTSS | RefSeqTES
    
 ---
 
-## Бонусная часть
+### Бонусная часть
 Код представлен в колабе
 
 ![](/img/bonus.png)   
