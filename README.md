@@ -141,6 +141,8 @@ RefSeqTSS | RefSeqTES
 ## Запущенные команды:
 
 ```
-! wget - для скачивания файлов
-ыыы
+!wget link -O filename - для скачивания файлов
+!touch filename - для создания файла
+!java -mx5000M -jar /content/ChromHMM/ChromHMM.jar BinarizeBam -b 200 \
+  /content/ChromHMM/CHROMSIZES/hg19.txt /content/ cellmarkfiletable.txt binarizedData - для конвертации профилей из ChIP-seq экспериментов в бинарную табличку
 ```
