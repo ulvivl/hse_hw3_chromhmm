@@ -52,7 +52,7 @@ RefSeqTSS | RefSeqTES
    - Не попадает на ген.
    - Больше всего похоже на состояние Heterochromatin
 
-![Image](/img/state_1.png)
+  ![](/img/state_1.png)
 
 <!-- 
 № | Название | Описание | Картинка
