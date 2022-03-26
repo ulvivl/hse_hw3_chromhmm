@@ -143,6 +143,14 @@ RefSeqTSS | RefSeqTES
 ```
 !wget link -O filename - для скачивания файлов
 !touch filename - для создания файла
+```
+Для конвертации профилей из ChIP-seq экспериментов в бинарную табличку:
+```
 !java -mx5000M -jar /content/ChromHMM/ChromHMM.jar BinarizeBam -b 200 \
-  /content/ChromHMM/CHROMSIZES/hg19.txt /content/ cellmarkfiletable.txt binarizedData - для конвертации профилей из ChIP-seq экспериментов в бинарную табличку
+  /content/ChromHMM/CHROMSIZES/hg19.txt /content/ cellmarkfiletable.txt binarizedData
+```
+Для определения 10 разных эпигенетических типов с наиболее выраженными наборами гистоновых меток и для присвоения каждому геномному интервалу определенный эпигенетический тип:
+```
+!java -mx5000M -jar /content/ChromHMM/ChromHMM.jar LearnModel -b 200 \
+  /content/binarizedData/ /content/data 10 hg19
 ```
