@@ -38,10 +38,16 @@ A549 | H3K27me3 | H3K27me3.bam | Control.bam
 
 Emission | Overlap | Transition 
  --- | --- | ---
- ![](/image/emissions_15.png) | ![](/image/A549_15_overlap.png) | ![](/image/transitions_15.png)
+ ![](/img/emissions_15.png) | ![](/img/A549_10_overlap.png) | ![](/img/transitions_10.png)
 
 RefSeqTSS | RefSeqTES 
  --- | --- 
-![](/image/A549_15_RefSeqTSS_neighborhood.png) | ![](/image/A549_15_RefSeqTES_neighborhood.png)
+![](/img/A549_10_RefSeqTSS_neighborhood.png) | ![](/img/A549_10_RefSeqTES_neighborhood.png)
 
 ## Эпигенетические типы
+
+
+№ | Название | Описание | Картинка
+| --- | --- | ---| ---
+1 |Heterochromatin | Заметим, что состояние  не встречается среди выбранных нами гистоновых модификациях, кроме H3k09me3AlnRep1. </li><li>Чаще всего ассоциировано с ядерной ламиной, то есть попаает на участок репрессированного гетерохроматима.</li><li>Данное состояние попадает на интрон гена </li><li>Показывает низкий сигнал.</li><li>Из примерного списка состояний ближе всего к состоянию Heterochromatin</li></ul>| ![Image](/img/image_1.png)
+ 
