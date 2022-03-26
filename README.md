@@ -2,13 +2,13 @@
 
 ## Формулировка задания
  
-[ссылка условия](https://docs.google.com/document/d/1Kq3_L6URKQy5O2hg6qmfKQVgOm7fayuZ-BZsdQ7LCA4/edit)
+[Условие](https://docs.google.com/document/d/1Kq3_L6URKQy5O2hg6qmfKQVgOm7fayuZ-BZsdQ7LCA4/edit)
 
 ---
 
 ## Colab
 
-[ссылка Colab](https://colab.research.google.com/drive/1WAklSQC1NjeoRP9laFZL0vE7Yqka5hMp?usp=sharing)
+[Colab с кодом](https://colab.research.google.com/drive/1WAklSQC1NjeoRP9laFZL0vE7Yqka5hMp?usp=sharing)
 
 ---
 
